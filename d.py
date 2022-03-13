@@ -17,7 +17,7 @@ from .. import loader, utils
 
 @loader.tds
 class DownloaderMod(loader.Module):
-	"""Downloader module"""
+	"""Downloader module by ToXicUse"""
 	strings = {'name': 'Downloader'}
 
 	async def dlrcmd(self, message):
